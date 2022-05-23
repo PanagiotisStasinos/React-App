@@ -53,6 +53,8 @@ function Navigation(){
                         </span>
                         <ul>
                             <li>Home</li>
+                            <li>Option1</li>
+                            <li>Option2</li>
                         </ul>
                     </animated.div>
                 )
