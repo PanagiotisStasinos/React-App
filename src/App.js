@@ -9,7 +9,7 @@ import About from './Views/About';
 
 function App() {
   return (
-    <div >
+    <div className='relative'>
       <Router>
         <Header />
 
